@@ -1,6 +1,3 @@
-/* author: gandhi - gandhi.mtm [at] gmail [dot] com - Depok, Indonesia */
-
-// bean class to represent velocity
 
 public class Velocity {
 	// store the Velocity in an array to accommodate multi-dimensional problem space

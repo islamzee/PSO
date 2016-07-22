@@ -1,4 +1,3 @@
-/* author: gandhi - gandhi.mtm [at] gmail [dot] com - Depok, Indonesia */
 
 // just a simple utility class to find a minimum position on a list
 
